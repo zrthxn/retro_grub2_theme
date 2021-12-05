@@ -1,6 +1,6 @@
 title-text: "GRUB"
 title-color: "#66F5B5"
-title-font: "Roboto Mono"
+title-font: "Roboto Mono Light 16"
 desktop-image: "background.png"
 terminal-font: "Terminus (TTF) Bold 18"
 terminal-left: "0%"
@@ -13,10 +13,10 @@ terminal-height: "100%"
     width = 50%
     top = 20%
     height = 60%
-    item_font = "Roboto Mono"
+    item_font = "Roboto Mono Light 16"
     item_color = "#0E7A3C"
     item_align = "center"  
-    selected_item_font = "Roboto Mono"
+    selected_item_font = "Roboto Mono Light 16"
     selected_item_color = "#66F5B5"
     selected_item_pixmap_style = "select_*.png"
     item_height = 40
@@ -31,7 +31,7 @@ terminal-height: "100%"
     top = 95%
     height = 33
     width = 600  
-    font = "Roboto Mono"
+    font = "Roboto Mono Light 16"
     color = "#66F5B5"
     align = "center"  
     text = "@KEYMAP_SHORT@"
@@ -45,7 +45,7 @@ terminal-height: "100%"
     height = 12
     text = "booting system in %d"
     text_color = "#66F5B5"
-    font = "Roboto Mono"
+    font = "Roboto Mono Light 16"
     bar_style = "progress_bar_*.png"
     highlight_style = "progress_highlight_*.png"
 }
